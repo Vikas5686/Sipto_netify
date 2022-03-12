@@ -1,0 +1,24 @@
+.color{
+    background-color: #324c66;
+    color: black;
+    padding-top: 10px;
+}
+.color p{
+    text-align: left;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.color h1{
+    font-weight: 600;
+    text-align: left;
+}
+.card.mb-3.ThickCard {
+    height: 50vh;
+    overflow: hidden;
+  }
+  @media screen and (max-width:770px) {
+      .card.mb-3.ThickCard {
+          height: auto;
+        }
+      
+  }

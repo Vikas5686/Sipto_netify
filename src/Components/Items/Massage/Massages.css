@@ -1,0 +1,12 @@
+.box{
+    margin-top: 52px;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 5px 5px 20px #032644, -5px -5px 20px #032644;
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+}
+.box:hover {
+    -webkit-transform: scale(1.02);
+            transform: scale(1.02);
+  }

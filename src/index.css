@@ -1,0 +1,23 @@
+*{
+  margin: 0px ;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  list-style: none;
+}
+.container-fluid{
+  background-color:#06061e;
+  padding: 0px;
+  margin: 0px;
+}
+.row{
+  margin: 0px;
+  padding: 0px;
+}
+.col-12{
+  padding: 0px;
+  margin: 0px;
+}
+.navbar{
+  padding: 0px;
+}
